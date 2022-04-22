@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1618567492 source:c:\users\lenovo\onedrive\desktop\prog\code blocks\code_blocks\code blocks\ping pong game\main.cpp
+	<iostream>
+	<dos.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<windows.h>
+	<time.h>
+

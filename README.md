@@ -1,2 +1,3 @@
 # C++ Project
-Periodic Table!
+1. Periodic Table!
+2. Ping Pong Game!

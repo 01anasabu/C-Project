@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1630639078 source:c:\users\lenovo\onedrive\desktop\term paper\cp tp\periodic table\main.cpp
+	<iostream>
+	<stdlib.h>
+	<stdio.h>
+	<fstream>
+	<ctime>
+	<cstdlib>
+	<conio.h>
+
